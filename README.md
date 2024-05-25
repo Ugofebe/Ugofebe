@@ -17,6 +17,6 @@ LinkedIn: https://www.linkedin.com/in/ugotheanalyst/
 
 Twitter: https://twitter.com/ugo_ebuka
 
-Portfolio: [Your Portfolio Website](https://ugofebe.github.io/ugotheanalystt.github.io/)
+Portfolio: (https://ugofebe.github.io/ugotheanalystt.github.io/)
 
-GitHub: [Your GitHub Profile](https://github.com/Ugofebe))
+GitHub: (https://github.com/Ugofebe))
